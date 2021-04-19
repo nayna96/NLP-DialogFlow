@@ -9,6 +9,3 @@ threadpoolctl
 gunicorn
 whitenoise
 pandas
-unicode
-tensorflow
-nltk
